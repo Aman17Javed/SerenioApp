@@ -1,0 +1,10 @@
+{
+  "name": "mern-app",
+  "private": true,
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "scripts": {
+    "start": "concurrently \"cd Serenio-Backend && npm start\" \"cd Serenio-Frontend-1 && npm start\""
+  }
+}
