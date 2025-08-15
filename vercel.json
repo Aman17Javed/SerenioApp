@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "buildCommand": "cd serenio-frontend && npm install && npm run build",
+  "outputDirectory": "serenio-frontend/build",
+  "installCommand": "cd serenio-frontend && npm install",
+  "framework": "create-react-app"
+} 
