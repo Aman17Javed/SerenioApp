@@ -1,0 +1,1752 @@
+{
+  "exportDate": "2025-08-06T18:13:54.620Z",
+  "databaseName": "serenio_database",
+  "collections": {
+    "users": {
+      "count": 12,
+      "data": [
+        {
+          "_id": "6889f5ce939e131d84ae1183",
+          "name": "Aman Javed",
+          "email": "aman@example.com",
+          "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+          "role": "User",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODg5ZjVjZTkzOWUxMzFkODRhZTExODMiLCJpYXQiOjE3NTQ1MDA2NDMsImV4cCI6MTc1NTEwNTQ0M30.D1qobl7xC2f-EBc3l6qFa2s7IeMqYddktwrtbB13AWQ",
+          "id": "6889f5ce939e131d84ae1183"
+        },
+        {
+          "_id": "6889f5ce939e131d84ae1185",
+          "name": "Dr. Sarah Johnson",
+          "email": "sarah.johnson@example.com",
+          "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+          "role": "Psychologist",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODg5ZjVjZTkzOWUxMzFkODRhZTExODUiLCJpYXQiOjE3NTQ0NjA5OTgsImV4cCI6MTc1NTA2NTc5OH0.5S6eZTKlkjTmjsXfq-jIOxKcsOURMw4aFbzohXaWVrQ",
+          "id": "6889f5ce939e131d84ae1185"
+        },
+        {
+          "_id": "6889f5ce939e131d84ae1187",
+          "name": "Dr. Michael Chen",
+          "email": "michael.chen@example.com",
+          "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+          "role": "Psychologist",
+          "__v": 0,
+          "id": "6889f5ce939e131d84ae1187"
+        },
+        {
+          "_id": "6889f5cf939e131d84ae1189",
+          "name": "Dr. Emily Rodriguez",
+          "email": "emily.rodriguez@example.com",
+          "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+          "role": "Psychologist",
+          "__v": 0,
+          "id": "6889f5cf939e131d84ae1189"
+        },
+        {
+          "_id": "6889f5cf939e131d84ae118b",
+          "name": "Admin User",
+          "email": "admin@example.com",
+          "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+          "role": "Admin",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODg5ZjVjZjkzOWUxMzFkODRhZTExOGIiLCJpYXQiOjE3NTQ0NTkxMDIsImV4cCI6MTc1NTA2MzkwMn0.m7r3u5VLauXO4cORkraz4y6LkYgjU9XpC9KprJTlNU0",
+          "id": "6889f5cf939e131d84ae118b"
+        },
+        {
+          "_id": "688bc98abe00fbcaabdff17b",
+          "name": "DR KHADIJA",
+          "email": "k@example.com",
+          "password": "$2b$10$khkVltTq2MyYNsl.8ucX5u.iqMrVBZluLZs5iSVMyEHUyKa./L8Me",
+          "role": "User",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODhiYzk4YWJlMDBmYmNhYWJkZmYxN2IiLCJpYXQiOjE3NTM5OTE1NjMsImV4cCI6MTc1NDU5NjM2M30.fgtJlLfE8fS05IJPw9hlaXCN38wJvD3P-Yx3K_AToMY",
+          "id": "688bc98abe00fbcaabdff17b"
+        },
+        {
+          "_id": "689224b342cad91b9ff6dc61",
+          "name": "Updated Test User",
+          "email": "updated@example.com",
+          "password": "$2b$10$TXMUEZejGV26iYDBdtpa/O8Ud.GGHkG.drBwSrHY21fn.3wIrazjK",
+          "role": "User",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyMjRiMzQyY2FkOTFiOWZmNmRjNjEiLCJpYXQiOjE3NTQ0MDgxMTUsImV4cCI6MTc1NTAxMjkxNX0.4oD9DFkwmFJHzGyTGNFufsNFRAq_JqZxbsCo4uJYLBo",
+          "id": "689224b342cad91b9ff6dc61"
+        },
+        {
+          "_id": "6892681e8db9267378f7de7c",
+          "name": "Istaqlal haider",
+          "email": "gggg@gmail.com",
+          "password": "$2b$10$kHWBtnqOO11Gwl5o4cGvb.oCg4V5hbCX2e7g52gjPqI2UcdEvvlyu",
+          "role": "User",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyNjgxZThkYjkyNjczNzhmN2RlN2MiLCJpYXQiOjE3NTQ0Mjg3MDcsImV4cCI6MTc1NTAzMzUwN30.1FbU-KyxT9BNMI71RKVvQ2TNLSO49rofGkEcnQsP8lY",
+          "id": "6892681e8db9267378f7de7c"
+        },
+        {
+          "_id": "68926d8b8db9267378f7dec5",
+          "name": "Abdul Rehman",
+          "email": "abdul@gmail.com",
+          "password": "$2b$10$ilBdOPSEONjfdgt/wUmVb.SZJEDV7eRwKxLSo7M5G7pa8J8ErO6cW",
+          "role": "User",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyNmQ4YjhkYjkyNjczNzhmN2RlYzUiLCJpYXQiOjE3NTQ0Mjc5MTMsImV4cCI6MTc1NTAzMjcxM30.FLkBw_WRqGacQNS2khtFsSkO-QFbWtMjgJSuKMNiXgs",
+          "id": "68926d8b8db9267378f7dec5"
+        },
+        {
+          "_id": "6892e9d9a535a9a0db52f6ad",
+          "name": "Ahsan",
+          "email": "ahsan@example.com",
+          "password": "$2b$10$jdztQLxAuiaaxratIm2naOcBdxMrAvqXjaOWrsBL0qAkdrHmCcRCq",
+          "role": "User",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyZTlkOWE1MzVhOWEwZGI1MmY2YWQiLCJpYXQiOjE3NTQ0NTkwMzcsImV4cCI6MTc1NTA2MzgzN30.LT1u0G0RUDRD5aqfZTbGZYK2C1yCKUZ3AAp57q0gpzI",
+          "id": "6892e9d9a535a9a0db52f6ad"
+        },
+        {
+          "_id": "6892eb20a535a9a0db52f6ce",
+          "name": "Dr Jajjah",
+          "email": "jajjah@example.com",
+          "password": "$2b$10$.vxReroi4B6Q1lQWz.dNm.vL451BN2p0/2N9.2SEBkaL0u.Jh1Pw2",
+          "role": "User",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyZWIyMGE1MzVhOWEwZGI1MmY2Y2UiLCJpYXQiOjE3NTQ0NTg5MTIsImV4cCI6MTc1NTA2MzcxMn0.aQV9XdKA6z0C0OjEmCvKoO9LocshohwYNXMUyitYMG4",
+          "id": "6892eb20a535a9a0db52f6ce"
+        },
+        {
+          "_id": "6892edbe51f9f68a77ee0115",
+          "name": "Dr Baig",
+          "email": "baig@example.com",
+          "password": "$2b$10$S9AsYD81hyttmyP1CqyX6.N8DXg/OxIc1KFbIIdzC.Sonj00tm3qm",
+          "role": "Psychologist",
+          "__v": 0,
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyZWRiZTUxZjlmNjhhNzdlZTAxMTUiLCJpYXQiOjE3NTQ0NTk1ODIsImV4cCI6MTc1NTA2NDM4Mn0.3haCUeRq0qPXoo_OkOnkKf5lxMLf2t4Qf8rGmw7opPA",
+          "id": "6892edbe51f9f68a77ee0115"
+        }
+      ]
+    },
+    "psychologists": {
+      "count": 4,
+      "data": [
+        {
+          "_id": "6889f5cf939e131d84ae118d",
+          "userId": "6889f5ce939e131d84ae1185",
+          "name": "Dr. Sarah Johnson",
+          "specialization": "Cognitive Behavioral Therapy",
+          "rating": 4.8,
+          "reviews": 127,
+          "experience": "12 years",
+          "availability": "Mon-Fri 9:00-17:00",
+          "imageUrl": "https://example.com/sarah-johnson.jpg",
+          "hourlyRate": 2500,
+          "sessionPrice": 2500,
+          "bio": "Specialized in treating anxiety, depression, and trauma using evidence-based CBT techniques.",
+          "createdAt": "2025-07-30T10:37:03.393Z",
+          "lastUpdated": "2025-07-30T10:37:03.394Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5cf939e131d84ae118f",
+          "userId": "6889f5ce939e131d84ae1187",
+          "name": "Dr. Michael Chen",
+          "specialization": "Anxiety and Stress Management",
+          "rating": 4.6,
+          "reviews": 89,
+          "experience": "8 years",
+          "availability": "Tue-Thu 10:00-18:00",
+          "imageUrl": "https://example.com/michael-chen.jpg",
+          "hourlyRate": 2200,
+          "sessionPrice": 2200,
+          "bio": "Expert in anxiety disorders, stress management, and mindfulness-based interventions.",
+          "createdAt": "2025-07-30T10:37:03.472Z",
+          "lastUpdated": "2025-07-30T10:37:03.472Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5cf939e131d84ae1191",
+          "userId": "6889f5cf939e131d84ae1189",
+          "name": "Dr. Emily Rodriguez",
+          "specialization": "Depression and Mood Disorders",
+          "rating": 4.9,
+          "reviews": 156,
+          "experience": "15 years",
+          "availability": "Mon-Sat 8:00-16:00",
+          "imageUrl": "https://example.com/emily-rodriguez.jpg",
+          "hourlyRate": 2800,
+          "sessionPrice": 2800,
+          "bio": "Specialized in treating depression, bipolar disorder, and other mood-related conditions.",
+          "createdAt": "2025-07-30T10:37:03.549Z",
+          "lastUpdated": "2025-07-30T10:37:03.549Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892edbe51f9f68a77ee0117",
+          "userId": "6892edbe51f9f68a77ee0115",
+          "name": "Dr Baig",
+          "specialization": "child therapy",
+          "rating": 0,
+          "reviews": 0,
+          "experience": "5",
+          "availability": "12 hours",
+          "hourlyRate": 2500,
+          "sessionPrice": 2500,
+          "bio": "Working with children for the past 5 years to improve their mental health",
+          "createdAt": "2025-08-06T05:53:02.245Z",
+          "lastUpdated": "2025-08-06T05:53:02.245Z",
+          "__v": 0
+        }
+      ]
+    },
+    "appointments": {
+      "count": 16,
+      "data": [
+        {
+          "_id": "6889f5cf939e131d84ae1193",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118d",
+          "date": "2025-07-31",
+          "timeSlot": "10:00",
+          "reason": "Anxiety and stress management consultation",
+          "status": "Cancelled",
+          "createdAt": "2025-07-30T10:37:03.631Z",
+          "__v": 0,
+          "paymentId": "6889f5cf939e131d84ae119b"
+        },
+        {
+          "_id": "6889f5cf939e131d84ae1195",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118f",
+          "date": "2025-08-06",
+          "timeSlot": "14:00",
+          "reason": "Follow-up session for anxiety treatment",
+          "status": "Cancelled",
+          "createdAt": "2025-07-30T10:37:03.724Z",
+          "__v": 0,
+          "paymentId": "6889f5d0939e131d84ae119d"
+        },
+        {
+          "_id": "6889f5cf939e131d84ae1197",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae1191",
+          "date": "2025-08-29",
+          "timeSlot": "11:00",
+          "reason": "Depression assessment and treatment planning",
+          "status": "Booked",
+          "createdAt": "2025-07-30T10:37:03.800Z",
+          "__v": 0,
+          "paymentId": "6889f5d0939e131d84ae119f"
+        },
+        {
+          "_id": "6889f5cf939e131d84ae1199",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118d",
+          "date": "2025-08-13",
+          "timeSlot": "15:00",
+          "reason": "Regular therapy session",
+          "status": "Cancelled",
+          "createdAt": "2025-07-30T10:37:03.879Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891d11e9cdfa83ae8f48b62",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118d",
+          "date": "2025-08-06",
+          "timeSlot": "11:00",
+          "reason": "",
+          "status": "Cancelled",
+          "createdAt": "2025-08-05T09:38:38.572Z",
+          "__v": 0
+        },
+        {
+          "_id": "68921b2f42cad91b9ff6dc2a",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae1191",
+          "date": "2025-08-08",
+          "timeSlot": "11:00",
+          "reason": "",
+          "status": "Cancelled",
+          "createdAt": "2025-08-05T14:54:39.396Z",
+          "__v": 0
+        },
+        {
+          "_id": "68921cde42cad91b9ff6dc59",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118f",
+          "date": "2025-08-20",
+          "timeSlot": "17:00",
+          "reason": "",
+          "status": "Booked",
+          "createdAt": "2025-08-05T15:01:50.872Z",
+          "__v": 0
+        },
+        {
+          "_id": "689224c742cad91b9ff6dc67",
+          "userId": "689224b342cad91b9ff6dc61",
+          "psychologistId": "6889f5cf939e131d84ae118d",
+          "date": "2025-08-10",
+          "timeSlot": "10:00",
+          "reason": "Test appointment booking",
+          "status": "Cancelled",
+          "createdAt": "2025-08-05T15:35:35.017Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892250642cad91b9ff6dc74",
+          "userId": "689224b342cad91b9ff6dc61",
+          "psychologistId": "6889f5cf939e131d84ae118d",
+          "date": "2025-08-10",
+          "timeSlot": "10:00",
+          "reason": "Test duplicate booking",
+          "status": "Booked",
+          "createdAt": "2025-08-05T15:36:38.657Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892319fa6c7f79d419af7e6",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae1191",
+          "date": "2025-08-27",
+          "timeSlot": "17:00",
+          "reason": "",
+          "status": "Booked",
+          "createdAt": "2025-08-05T16:30:23.473Z",
+          "__v": 0
+        },
+        {
+          "_id": "689253daa6c7f79d419af95b",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118f",
+          "date": "2025-08-26",
+          "timeSlot": "14:00",
+          "reason": "",
+          "status": "Booked",
+          "createdAt": "2025-08-05T18:56:26.869Z",
+          "__v": 0
+        },
+        {
+          "_id": "68926dbd8db9267378f7deec",
+          "userId": "68926d8b8db9267378f7dec5",
+          "psychologistId": "6889f5cf939e131d84ae1191",
+          "date": "2025-08-09",
+          "timeSlot": "10:00",
+          "reason": "Lun",
+          "status": "Cancelled",
+          "createdAt": "2025-08-05T20:46:53.784Z",
+          "__v": 0
+        },
+        {
+          "_id": "689275738db9267378f7dff2",
+          "userId": "6892681e8db9267378f7de7c",
+          "psychologistId": "6889f5cf939e131d84ae118d",
+          "date": "2025-08-11",
+          "timeSlot": "11:00",
+          "reason": "Hahah",
+          "status": "Booked",
+          "createdAt": "2025-08-05T21:19:47.265Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892a7c08db9267378f7e0c2",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118d",
+          "date": "2025-08-18",
+          "timeSlot": "10:00",
+          "reason": "",
+          "status": "Booked",
+          "createdAt": "2025-08-06T00:54:24.277Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892c215a535a9a0db52f57c",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118f",
+          "date": "2025-08-27",
+          "timeSlot": "11:00",
+          "reason": "Stress",
+          "status": "Booked",
+          "createdAt": "2025-08-06T02:46:45.251Z",
+          "__v": 0
+        },
+        {
+          "_id": "6893640029729135c8c2328c",
+          "userId": "6889f5ce939e131d84ae1183",
+          "psychologistId": "6889f5cf939e131d84ae118f",
+          "date": "2025-08-09",
+          "timeSlot": "15:00",
+          "reason": "anxiety related to studies",
+          "status": "Booked",
+          "createdAt": "2025-08-06T14:17:36.835Z",
+          "__v": 0
+        }
+      ]
+    },
+    "moodlogs": {
+      "count": 17,
+      "data": [
+        {
+          "_id": "6889f5d0939e131d84ae11a4",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "positive",
+          "createdAt": "2025-07-21T12:02:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae11a6",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "neutral",
+          "createdAt": "2025-07-22T12:07:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae11a8",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "negative",
+          "createdAt": "2025-07-23T11:39:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae11aa",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "positive",
+          "createdAt": "2025-07-24T05:07:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae11ac",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "neutral",
+          "createdAt": "2025-07-25T09:51:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae11ae",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "positive",
+          "createdAt": "2025-07-26T11:36:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae11b0",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "positive",
+          "createdAt": "2025-07-27T09:06:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae11b2",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "neutral",
+          "createdAt": "2025-07-28T12:56:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d1939e131d84ae11b4",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "positive",
+          "createdAt": "2025-07-29T09:49:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d1939e131d84ae11b6",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "positive",
+          "createdAt": "2025-07-30T12:25:04.446Z",
+          "__v": 0
+        },
+        {
+          "_id": "68926f378db9267378f7df3c",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "positive",
+          "createdAt": "2025-08-05T20:53:11.094Z",
+          "__v": 0
+        },
+        {
+          "_id": "689272288db9267378f7df81",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sentiment": "negative",
+          "createdAt": "2025-08-05T21:05:44.486Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892e1f0a535a9a0db52f663",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "negative",
+          "createdAt": "2025-08-06T05:02:40.335Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892e202a535a9a0db52f675",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "neutral",
+          "createdAt": "2025-08-06T05:02:58.205Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892e21fa535a9a0db52f687",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "negative",
+          "createdAt": "2025-08-06T05:03:27.270Z",
+          "__v": 0
+        },
+        {
+          "_id": "6893639229729135c8c23274",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "negative",
+          "createdAt": "2025-08-06T14:15:46.445Z",
+          "__v": 0
+        },
+        {
+          "_id": "68938edc29729135c8c23319",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sentiment": "positive",
+          "createdAt": "2025-08-06T17:20:28.589Z",
+          "__v": 0
+        }
+      ]
+    },
+    "chatlogs": {
+      "count": 110,
+      "data": [
+        {
+          "_id": "6889f5d1939e131d84ae11b8",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "session_001",
+          "message": "I've been feeling anxious lately",
+          "response": "I understand you're feeling anxious. Can you tell me more about what's been causing this anxiety?",
+          "createdAt": "2025-07-28T10:37:05.216Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d1939e131d84ae11ba",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "session_001",
+          "message": "Work has been very stressful",
+          "response": "Work stress can definitely contribute to anxiety. What specific aspects of work are most challenging for you?",
+          "createdAt": "2025-07-28T10:42:05.216Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d1939e131d84ae11bc",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "session_002",
+          "message": "I'm having trouble sleeping",
+          "response": "Sleep issues are common with anxiety. Have you noticed any patterns in your sleep difficulties?",
+          "createdAt": "2025-07-29T10:37:05.216Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d1939e131d84ae11be",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "session_002",
+          "message": "I wake up in the middle of the night",
+          "response": "That's a common symptom. Let's work on some relaxation techniques that might help.",
+          "createdAt": "2025-07-29T10:47:05.216Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a16a10909e34b2bfd6c77",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "8b722f89-647c-4352-ad26-ad4d5f37565c",
+          "message": "heyyyyyyyyyyy",
+          "response": "",
+          "createdAt": "2025-07-30T12:57:05.859Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a16a40909e34b2bfd6c79",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "8b722f89-647c-4352-ad26-ad4d5f37565c",
+          "message": "heyyyyyyyyyyy",
+          "response": "Hey there! 😊 How are you doing today?",
+          "createdAt": "2025-07-30T12:57:08.113Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a18dd0909e34b2bfd6ca0",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "8b722f89-647c-4352-ad26-ad4d5f37565c",
+          "message": "heyyyyyyyy",
+          "response": "",
+          "createdAt": "2025-07-30T13:06:37.021Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a18de0909e34b2bfd6ca2",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "8b722f89-647c-4352-ad26-ad4d5f37565c",
+          "message": "heyyyyyyyy",
+          "response": "Hey there! How are you doing today?",
+          "createdAt": "2025-07-30T13:06:38.596Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a1a1fbe00fbcaabdfefd9",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "e9dd5eb3-8f64-4eb8-ba78-418bf1469b9e",
+          "message": "hey my name is aman",
+          "response": "",
+          "createdAt": "2025-07-30T13:11:59.568Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a1a20be00fbcaabdfefdb",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "e9dd5eb3-8f64-4eb8-ba78-418bf1469b9e",
+          "message": "hey my name is aman",
+          "response": "Hello Aman! It's nice to meet you. How are you doing today?",
+          "createdAt": "2025-07-30T13:12:00.740Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a1a2abe00fbcaabdfefde",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "e9dd5eb3-8f64-4eb8-ba78-418bf1469b9e",
+          "message": "i am devestared",
+          "response": "",
+          "createdAt": "2025-07-30T13:12:10.543Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a1a2dbe00fbcaabdfefe0",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "e9dd5eb3-8f64-4eb8-ba78-418bf1469b9e",
+          "message": "i am devestared",
+          "response": "I'm really sorry to hear that you're feeling devastated. It sounds like you're going through a really tough time. If you feel comfortable sharing more about what's going on, I'm here to listen and support you in any way I can. Remember, you're not alone in this.",
+          "createdAt": "2025-07-30T13:12:13.984Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a1c71be00fbcaabdff051",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "c2e4e355-9f99-4429-8642-512590398b0b",
+          "message": "sdfhgjk",
+          "response": "",
+          "createdAt": "2025-07-30T13:21:53.509Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a1c73be00fbcaabdff053",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "c2e4e355-9f99-4429-8642-512590398b0b",
+          "message": "sdfhgjk",
+          "response": "It seems like you might have entered some random characters. If you're trying to express something or have any questions, feel free to share. I'm here to listen and help in any way I can.",
+          "createdAt": "2025-07-30T13:21:55.002Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a1ce3be00fbcaabdff05a",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "c2e4e355-9f99-4429-8642-512590398b0b",
+          "message": "sdfgh",
+          "response": "",
+          "createdAt": "2025-07-30T13:23:47.480Z",
+          "__v": 0
+        },
+        {
+          "_id": "688a1ce4be00fbcaabdff05c",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "c2e4e355-9f99-4429-8642-512590398b0b",
+          "message": "sdfgh",
+          "response": "It looks like you might have typed something by accident. If there's anything on your mind that you'd like to talk about, feel free to share. I'm here to listen and help if I can.",
+          "createdAt": "2025-07-30T13:23:48.878Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c1c9c1557acffcc267f6",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "hi",
+          "response": "",
+          "createdAt": "2025-08-04T14:20:57.108Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c1cbc1557acffcc267f8",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "hi",
+          "response": "Hello! How are you doing today?",
+          "createdAt": "2025-08-04T14:20:59.160Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c248c1557acffcc2682d",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "hwyy",
+          "response": "",
+          "createdAt": "2025-08-04T14:23:04.380Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c24dc1557acffcc2682f",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "hwyy",
+          "response": "Hello! How are you doing today? If there's something on your mind that you'd like to talk about, I'm here to listen.",
+          "createdAt": "2025-08-04T14:23:09.236Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c253c1557acffcc26832",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "ia m sad",
+          "response": "",
+          "createdAt": "2025-08-04T14:23:15.230Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c255c1557acffcc26834",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "ia m sad",
+          "response": "I'm really sorry to hear that you're feeling this way. It's important to acknowledge these feelings and take care of yourself. If you'd like to talk about what's on your mind, I'm here to listen and support you.",
+          "createdAt": "2025-08-04T14:23:17.596Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c25bc1557acffcc26837",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "my pet died",
+          "response": "",
+          "createdAt": "2025-08-04T14:23:23.808Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c25fc1557acffcc26839",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "my pet died",
+          "response": "I'm so sorry to hear about your loss. Losing a pet can be incredibly difficult because they are often such an important part of our lives. It's okay to feel a range of emotions right now. If you want to talk about your pet or how you're feeling, I'm here to listen and support you.",
+          "createdAt": "2025-08-04T14:23:27.188Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c267c1557acffcc2683c",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "i killed him",
+          "response": "",
+          "createdAt": "2025-08-04T14:23:35.054Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c269c1557acffcc2683e",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "i killed him",
+          "response": "It sounds like you're going through something incredibly intense and difficult. It's important to talk to someone about what you're experiencing. I urge you to reach out to a mental health professional or contact emergency services immediately to get the support you need. Your well-being is important, and there are people who can help you through this.",
+          "createdAt": "2025-08-04T14:23:37.362Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c275c1557acffcc26841",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "hehe i am happy",
+          "response": "",
+          "createdAt": "2025-08-04T14:23:49.290Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c277c1557acffcc26843",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "hehe i am happy",
+          "response": "That's wonderful to hear! What’s been bringing you happiness lately?",
+          "createdAt": "2025-08-04T14:23:51.756Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c297c1557acffcc26846",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "fd",
+          "response": "",
+          "createdAt": "2025-08-04T14:24:23.788Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890c299c1557acffcc26848",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "33e333cb-6aee-4524-8106-d56e9938bba4",
+          "message": "fd",
+          "response": "It seems like you might have entered a partial message. If there's something specific you'd like to discuss or ask about, feel free to share. I'm here to help and listen.",
+          "createdAt": "2025-08-04T14:24:25.974Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890f34bc1557acffcc2685d",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "1bb5d26f-d9fe-4dd8-ad93-18ae514c8f64",
+          "message": "hey",
+          "response": "",
+          "createdAt": "2025-08-04T17:52:11.978Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890f34ec1557acffcc2685f",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "1bb5d26f-d9fe-4dd8-ad93-18ae514c8f64",
+          "message": "hey",
+          "response": "Hello! How are you doing today?",
+          "createdAt": "2025-08-04T17:52:14.217Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890f356c1557acffcc26862",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "1bb5d26f-d9fe-4dd8-ad93-18ae514c8f64",
+          "message": "i am good",
+          "response": "",
+          "createdAt": "2025-08-04T17:52:22.519Z",
+          "__v": 0
+        },
+        {
+          "_id": "6890f358c1557acffcc26864",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "1bb5d26f-d9fe-4dd8-ad93-18ae514c8f64",
+          "message": "i am good",
+          "response": "I'm glad to hear that you're feeling good! If there's anything you'd like to talk about or explore, I'm here for you.",
+          "createdAt": "2025-08-04T17:52:24.535Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891a5c3a8dd1520b2d74383",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "5413eab6-8099-43b9-8dec-3ec1fc6c0a2e",
+          "message": "hey my name is aman this is a test",
+          "response": "",
+          "createdAt": "2025-08-05T06:33:39.306Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891a5c5a8dd1520b2d74385",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "5413eab6-8099-43b9-8dec-3ec1fc6c0a2e",
+          "message": "hey my name is aman this is a test",
+          "response": "Hi Aman! It's nice to meet you. If there's anything on your mind or anything you'd like to talk about, feel free to share. I'm here to listen and help in any way I can.",
+          "createdAt": "2025-08-05T06:33:41.733Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891a5cda8dd1520b2d74388",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "5413eab6-8099-43b9-8dec-3ec1fc6c0a2e",
+          "message": "ok",
+          "response": "",
+          "createdAt": "2025-08-05T06:33:49.109Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891a5cfa8dd1520b2d7438a",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "5413eab6-8099-43b9-8dec-3ec1fc6c0a2e",
+          "message": "ok",
+          "response": "Hi there! How can I support you today?",
+          "createdAt": "2025-08-05T06:33:51.324Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891c7c7a8dd1520b2d743a2",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "5413eab6-8099-43b9-8dec-3ec1fc6c0a2e",
+          "message": "heyyyyyy",
+          "response": "",
+          "createdAt": "2025-08-05T08:58:47.662Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891c7caa8dd1520b2d743a4",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "5413eab6-8099-43b9-8dec-3ec1fc6c0a2e",
+          "message": "heyyyyyy",
+          "response": "Hey there! How are you doing today?",
+          "createdAt": "2025-08-05T08:58:50.309Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891d0a19cdfa83ae8f48b42",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "3043bead-19ad-411a-8772-7bc451fd629d",
+          "message": "heyy ",
+          "response": "",
+          "createdAt": "2025-08-05T09:36:33.770Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891d0a39cdfa83ae8f48b44",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "3043bead-19ad-411a-8772-7bc451fd629d",
+          "message": "heyy ",
+          "response": "Hey there! How are you doing today?",
+          "createdAt": "2025-08-05T09:36:35.593Z",
+          "__v": 0
+        },
+        {
+          "_id": "68921a7f42cad91b9ff6dc01",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "3043bead-19ad-411a-8772-7bc451fd629d",
+          "message": "heyyy ",
+          "response": "",
+          "createdAt": "2025-08-05T14:51:43.971Z",
+          "__v": 0
+        },
+        {
+          "_id": "68921a8342cad91b9ff6dc03",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "3043bead-19ad-411a-8772-7bc451fd629d",
+          "message": "heyyy ",
+          "response": "Hello! How are you doing today?",
+          "createdAt": "2025-08-05T14:51:47.229Z",
+          "__v": 0
+        },
+        {
+          "_id": "68921a8c42cad91b9ff6dc06",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "3043bead-19ad-411a-8772-7bc451fd629d",
+          "message": "did you use embeddings",
+          "response": "",
+          "createdAt": "2025-08-05T14:51:56.058Z",
+          "__v": 0
+        },
+        {
+          "_id": "68921a9242cad91b9ff6dc08",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "3043bead-19ad-411a-8772-7bc451fd629d",
+          "message": "did you use embeddings",
+          "response": "Yes, embeddings are a common technique used in natural language processing (NLP) to represent text data in a numerical format that can be easily processed by machine learning models. They help capture the semantic meaning of words and phrases by mapping them to vectors in a continuous vector space. This allows for better understanding and analysis of text data, enabling more effective responses and interactions. Is there something specific you would like to know about embeddings or how they are used?",
+          "createdAt": "2025-08-05T14:52:02.526Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892683f8db9267378f7de8e",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Hi",
+          "response": "",
+          "createdAt": "2025-08-05T20:23:27.239Z",
+          "__v": 0
+        },
+        {
+          "_id": "689268418db9267378f7de90",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Hi",
+          "response": "Hello! How are you doing today?",
+          "createdAt": "2025-08-05T20:23:29.207Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892684e8db9267378f7de95",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Not good",
+          "response": "",
+          "createdAt": "2025-08-05T20:23:42.040Z",
+          "__v": 0
+        },
+        {
+          "_id": "689268508db9267378f7de97",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Not good",
+          "response": "I'm sorry to hear you're not feeling good. If you'd like to share more about what's going on, I'm here to listen and support you.",
+          "createdAt": "2025-08-05T20:23:44.690Z",
+          "__v": 0
+        },
+        {
+          "_id": "689272af8db9267378f7dfa9",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sessionId": "dd7eedb2-d08d-4b46-bd20-ec224bf4ed14",
+          "message": "Hlo",
+          "response": "",
+          "createdAt": "2025-08-05T21:07:59.090Z",
+          "__v": 0
+        },
+        {
+          "_id": "689272b18db9267378f7dfab",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sessionId": "dd7eedb2-d08d-4b46-bd20-ec224bf4ed14",
+          "message": "Hlo",
+          "response": "Hello! How can I assist you today?",
+          "createdAt": "2025-08-05T21:08:01.395Z",
+          "__v": 0
+        },
+        {
+          "_id": "689272bf8db9267378f7dfae",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sessionId": "dd7eedb2-d08d-4b46-bd20-ec224bf4ed14",
+          "message": "Feeling bad",
+          "response": "",
+          "createdAt": "2025-08-05T21:08:15.370Z",
+          "__v": 0
+        },
+        {
+          "_id": "689272c48db9267378f7dfb0",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sessionId": "dd7eedb2-d08d-4b46-bd20-ec224bf4ed14",
+          "message": "Feeling bad",
+          "response": "I'm sorry to hear that you're feeling this way. It's important to acknowledge your feelings and remember that it's okay to have difficult days. If you'd like, we can explore some strategies to help you cope with these feelings. You can try some of the following:\n\n1. **Acknowledge your feelings**: It's okay to feel bad sometimes. Remind yourself that these feelings are temporary and that it's normal to experience them.\n\n2. **Reflect on your thoughts**: Consider writing down any distressing thoughts or feelings you're having. This can help you gain perspective and identify any patterns.\n\n3. **Use coping statements**: Try using statements like \"I can get through this\" or \"These are just feelings and they will go away.\" Writing down or saying these out loud can be reassuring.\n\n4. **Practice self-compassion**: Think about what you can say or do for yourself that shows compassion and understanding. This might include taking a break, engaging in a comforting activity, or reminding yourself of",
+          "createdAt": "2025-08-05T21:08:20.339Z",
+          "__v": 0
+        },
+        {
+          "_id": "689272fb8db9267378f7dfb3",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sessionId": "dd7eedb2-d08d-4b46-bd20-ec224bf4ed14",
+          "message": "Talk me in urdu",
+          "response": "",
+          "createdAt": "2025-08-05T21:09:15.454Z",
+          "__v": 0
+        },
+        {
+          "_id": "689272fe8db9267378f7dfb5",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sessionId": "dd7eedb2-d08d-4b46-bd20-ec224bf4ed14",
+          "message": "Talk me in urdu",
+          "response": "بالکل، میں آپ کی مدد کرنے کے لئے یہاں ہوں۔ آپ کیسے ہیں؟ کیا آپ کو کسی خاص موضوع پر بات کرنی ہے یا کوئی مسئلہ ہے جس میں آپ مدد چاہتے ہیں؟",
+          "createdAt": "2025-08-05T21:09:18.132Z",
+          "__v": 0
+        },
+        {
+          "_id": "689273118db9267378f7dfb8",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sessionId": "dd7eedb2-d08d-4b46-bd20-ec224bf4ed14",
+          "message": "Ma  buhat udas ho",
+          "response": "",
+          "createdAt": "2025-08-05T21:09:37.134Z",
+          "__v": 0
+        },
+        {
+          "_id": "689273158db9267378f7dfba",
+          "userId": "68926d8b8db9267378f7dec5",
+          "sessionId": "dd7eedb2-d08d-4b46-bd20-ec224bf4ed14",
+          "message": "Ma  buhat udas ho",
+          "response": "Mujhe aapke liye sun kar afsos hua. Kabhi kabhi udasi har kisi ke liye aati hai, aur ye bilkul theek hai. Agar aap chahen, to main sun sakta hoon ya aapko madad ke liye kuch tareeke bata sakta hoon. Aapko kis baare mein baat karna acha lagega?",
+          "createdAt": "2025-08-05T21:09:41.820Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892761f8db9267378f7dffe",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Hello",
+          "response": "",
+          "createdAt": "2025-08-05T21:22:39.048Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276218db9267378f7e000",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Hello",
+          "response": "Hi there! How can I support you today?",
+          "createdAt": "2025-08-05T21:22:41.017Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892762d8db9267378f7e003",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Feeling not well",
+          "response": "",
+          "createdAt": "2025-08-05T21:22:53.380Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276338db9267378f7e005",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Feeling not well",
+          "response": "I'm sorry to hear that you're not feeling well. It's important to take care of yourself, both physically and mentally. Here are a few steps that might help you feel better:\n\n1. **Rest:** Make sure you're getting enough sleep and taking breaks when you need them.\n2. **Talk to Someone:** Reach out to a friend, family member, or mental health professional who can listen and offer support.\n3. **Stay Hydrated and Eat Well:** Sometimes, staying hydrated and maintaining a balanced diet can make a big difference in how you feel.\n4. **Reflect on Your Environment:** Think about any recent changes or stressors in your life that might be affecting you.\n5. **Practice Relaxation Techniques:** Techniques such as deep breathing, meditation, or gentle exercise can help reduce stress and improve your mood.\n\nIf you're experiencing persistent symptoms or if anything feels overwhelming, it might be helpful to reach out to a healthcare professional for further guidance. Remember, it's okay to ask for help, and you're",
+          "createdAt": "2025-08-05T21:22:59.295Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276478db9267378f7e008",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Can we talk in urdu?",
+          "response": "",
+          "createdAt": "2025-08-05T21:23:19.135Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276498db9267378f7e00a",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Can we talk in urdu?",
+          "response": "Of course, we can talk in Urdu. How can I assist you today?",
+          "createdAt": "2025-08-05T21:23:21.491Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892765f8db9267378f7e00d",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Meri tabiyat sehi nai hy bahot sir men drd hy",
+          "response": "",
+          "createdAt": "2025-08-05T21:23:43.667Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276668db9267378f7e00f",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Meri tabiyat sehi nai hy bahot sir men drd hy",
+          "response": "Mujhe aapki tabiyat ke bare mein sun kar afsos hua. Sar dard ke bohot saare wajuhat ho sakte hain, jaise ke stress, thakan, dehydration ya phir kisi bimari ka asar. Kuch cheezein jo aap sar dard mein araam paane ke liye kar sakte hain:\n\n1. **Paani piyen:** Dehydration sar dard ka ek aam sabab hai, toh yakini banayen ke aap kafi paani pi rahe hain.\n2. **Aaram karen:** Agar mumkin ho toh kuch der ke liye aaram karen. Andhera aur shanti aapke liye madadgar ho sakte hain.\n3. **Dawa:** Agar aapne pehle se hi kisi doctor se consult karke koi pain relief medicine li hai toh wo le sakte hain.\n4. **Thandi ya garam patti:** Sar",
+          "createdAt": "2025-08-05T21:23:50.270Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276818db9267378f7e012",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Shukria",
+          "response": "",
+          "createdAt": "2025-08-05T21:24:17.055Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276838db9267378f7e014",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Shukria",
+          "response": "You're welcome! If there's anything else you need help with or if you have any questions, feel free to let me know. I'm here to assist you.",
+          "createdAt": "2025-08-05T21:24:19.705Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276928db9267378f7e017",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "No thanks",
+          "response": "",
+          "createdAt": "2025-08-05T21:24:34.467Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276948db9267378f7e019",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "No thanks",
+          "response": "That's perfectly okay! If you ever feel like talking or need support, I'm here to help. Take care!",
+          "createdAt": "2025-08-05T21:24:36.582Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892769d8db9267378f7e01c",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Bye",
+          "response": "",
+          "createdAt": "2025-08-05T21:24:45.632Z",
+          "__v": 0
+        },
+        {
+          "_id": "689276a08db9267378f7e01e",
+          "userId": "6892681e8db9267378f7de7c",
+          "sessionId": "23908889-6337-4587-b12f-3698e6bd198d",
+          "message": "Bye",
+          "response": "Take care! If you ever need someone to talk to, I'm here for you. Have a great day!",
+          "createdAt": "2025-08-05T21:24:48.209Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892ab3249d43877370198b6",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "heyy",
+          "response": "",
+          "createdAt": "2025-08-06T01:09:06.965Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892ab3649d43877370198b8",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "heyy",
+          "response": "Hello! How are you doing today?",
+          "createdAt": "2025-08-06T01:09:10.286Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892aed749d43877370198da",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "hey",
+          "response": "",
+          "createdAt": "2025-08-06T01:24:39.139Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892aeda49d43877370198dc",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "hey",
+          "response": "Hello! How are you doing today? If there's anything on your mind or something you'd like to talk about, I'm here to listen and help.",
+          "createdAt": "2025-08-06T01:24:42.188Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892aeea49d43877370198df",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "i dont know",
+          "response": "",
+          "createdAt": "2025-08-06T01:24:58.828Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892aeee49d43877370198e1",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "i dont know",
+          "response": "That's okay. Sometimes it can be hard to put feelings into words or know exactly what you want to talk about. If there's anything specific on your mind or if you're feeling a certain way, feel free to share. I'm here to listen and help you through it.",
+          "createdAt": "2025-08-06T01:25:02.270Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892b0be49d43877370198f9",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "he fuckin loser i am",
+          "response": "",
+          "createdAt": "2025-08-06T01:32:46.831Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892b0c349d43877370198fb",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "he fuckin loser i am",
+          "response": "I'm sorry to hear that you're feeling this way. It's important to remember that everyone has moments of self-doubt and feels down sometimes. You're not alone, and it's okay to have these feelings. It might help to reflect on some positive aspects of yourself or things you've accomplished. If you're comfortable, feel free to share more about what's going on, and we can work through it together.",
+          "createdAt": "2025-08-06T01:32:51.101Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892b27c49d438773701991b",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "heyy i am a fucking losser ",
+          "response": "",
+          "createdAt": "2025-08-06T01:40:12.160Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892b28049d438773701991d",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "heyy i am a fucking losser ",
+          "response": "I'm sorry to hear that you're feeling this way. It's important to remember that everyone has moments of self-doubt, but they don't define who you are as a person. It's great that you're reaching out, as talking about how you feel can be a helpful step. If you're comfortable, maybe you could share more about what's going on, and we can explore ways to help you feel better. Remember, you're not alone in this, and there are people who care about you and want to support you.",
+          "createdAt": "2025-08-06T01:40:16.972Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892b5c749d4387737019935",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "hrey i have my presentation an i am shivering",
+          "response": "It's completely normal to feel nervous before a presentation, but there are some strategies that might help you manage those feelings:\n\n1. **Preparation**: Make sure you've prepared your material thoroughly. Knowing your content inside and out can boost your confidence.\n\n2. **Practice**: Rehearse your presentation multiple times. If possible, practice in front of a friend or family member and ask for feedback.\n\n3. **Breathing Exercises**: Take deep, slow breaths to calm your nervous system. Inhale deeply through your nose, hold for a moment, and exhale slowly through your mouth.\n\n4. **Visualization**: Picture yourself giving a successful presentation. Imagine the audience reacting positively and feeling proud of your performance.\n\n5. **Focus on the Message**: Remember that the audience is there to hear what you have to say. Concentrate on delivering your message, rather than on how you are perceived.\n\n6. **Positive Affirmations**: Remind yourself of your strengths and capabilities. Positive self",
+          "createdAt": "2025-08-06T01:54:15.319Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892b773dffc59e728dabf39",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "heyy i broke up and my hearts sinking",
+          "response": "I'm really sorry to hear that you're going through this. Breakups can be incredibly painful and it's important to give yourself permission to feel what you're feeling. It's okay to feel sad, hurt, or even confused. \n\nHere are a few suggestions that might help you cope during this tough time:\n\n1. **Reach Out for Support:** Talking to someone you trust, whether it's a friend, family member, or therapist, can provide comfort and perspective.\n\n2. **Self-Care:** Make sure to take care of yourself physically and emotionally. Eating well, getting enough rest, and engaging in activities you enjoy can be helpful.\n\n3. **Express Your Feelings:** Journaling or creative activities can be a great outlet for emotions.\n\n4. **Stay Active:** Physical activity can help boost your mood and reduce stress.\n\n5. **Set Small Goals:** Focus on small, achievable goals each day to help you feel a sense of accomplishment.\n\n6. **Avoid Isolation:** While it's natural to want some alone time",
+          "createdAt": "2025-08-06T02:01:23.951Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892b79cdffc59e728dabf3b",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "ok but why i am shivering ",
+          "response": "I'm sorry to hear that you're experiencing shivering. There could be several reasons why this is happening, and it's important to consider both physical and emotional factors. Here are a few possible reasons:\n\n1. **Temperature**: If you're in a cold environment, your body may be shivering as a natural response to generate warmth.\n\n2. **Illness**: Shivering can be a sign of fever or another underlying medical condition. If you feel unwell or have other symptoms, it might be worth checking in with a healthcare professional.\n\n3. **Anxiety or Stress**: Emotional or psychological factors, like anxiety or stress, can sometimes cause physical symptoms such as shivering.\n\n4. **Fatigue or Exhaustion**: Being overly tired or physically exhausted can also lead to shivering.\n\n5. **Hypoglycemia**: Low blood sugar levels can cause shivering, especially if you haven't eaten in a while.\n\nIf your shivering persists or you have other concerning symptoms, it might be",
+          "createdAt": "2025-08-06T02:02:04.103Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892b7bfdffc59e728dabf3d",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "cdb63828-a535-451b-9b63-bb42725ac837",
+          "message": "but i broke up",
+          "response": "I'm sorry to hear that you're going through a breakup. It can be a really tough and emotional time. Remember, it's okay to feel a range of emotions and to take the time you need to process them. If you want to talk about how you're feeling or need some support, I'm here to listen.",
+          "createdAt": "2025-08-06T02:02:39.937Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892bab72bdf2f7298055089",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "250a1731-7fa6-4141-9171-28534e123678",
+          "message": "hi i am devestated becausse of my exams ",
+          "response": "I'm sorry to hear that you're feeling devastated about your exams. It's understandable to feel overwhelmed, especially if you're putting a lot of pressure on yourself. Here are a few things that might help:\n\n1. **Acknowledge Your Feelings**: It's okay to feel upset or stressed. Allow yourself to recognize these emotions without judgment.\n\n2. **Identify the Source**: Try to pinpoint what exactly is causing your distress. Is it the fear of not performing well, the pressure of expectations, or something else?\n\n3. **Challenge Negative Thoughts**: If you're engaging in negative self-talk, try to challenge those thoughts. For example, if you're thinking, \"I'm a failure if I don't get an A,\" try to reframe it to something more balanced like, \"I am doing my best, and that's what matters.\"\n\n4. **Focus on What You Can Control**: Concentrate on the aspects of your exam preparation that you can control, such as your study schedule, your environment, and",
+          "createdAt": "2025-08-06T02:15:19.766Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892bad62bdf2f729805508b",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "250a1731-7fa6-4141-9171-28534e123678",
+          "message": "but my teacher is getting on my mind",
+          "response": "It sounds like you might be feeling frustrated or overwhelmed by your teacher's actions or expectations. It's important to acknowledge those feelings and find ways to manage them. Here are a few steps you could consider:\n\n1. **Reflect on the Situation**: Try to identify what specifically is bothering you about your teacher's behavior or expectations. Understanding the root of the issue can help you address it more effectively.\n\n2. **Practice Self-Compassion**: Remind yourself that it's okay to feel the way you do and that you're doing your best in the situation. Sometimes, we can be too hard on ourselves when things don't go as planned.\n\n3. **Communicate**: If you feel comfortable, consider having a respectful conversation with your teacher. You could express your thoughts and feelings about the situation and seek their perspective. Sometimes, open communication can lead to a better understanding.\n\n4. **Manage Stress**: Engage in activities that help you relax and de-stress, such as exercise, meditation, or",
+          "createdAt": "2025-08-06T02:15:50.714Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892bcc92bdf2f72980550a4",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "1bb5b37a-764d-4ee7-acfc-49509f458c02",
+          "message": "hey i am devestated my parents dont love me and i  have no friends",
+          "response": "I'm really sorry to hear that you're feeling this way. It sounds like you're going through a really tough time, and it's important to know that you're not alone. It can be incredibly difficult to feel disconnected from the people who are supposed to care for us the most. Here are a few things you might consider:\n\n1. **Reflect on Your Relationships**: Sometimes, when we're feeling low, it can be hard to see the positive aspects of our relationships. Try to think about small actions or moments that might indicate care or love, even if they're not expressed in the way you hope.\n\n2. **Reach Out for Support**: Consider reaching out to a counselor or therapist who can provide support and help you work through these feelings. They can offer a safe space to express yourself and explore these relationships.\n\n3. **Build New Connections**: It might be helpful to try and build new connections outside of your family. Joining clubs, classes, or community groups can be a great way to meet new people",
+          "createdAt": "2025-08-06T02:24:09.545Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892bcdd2bdf2f72980550a6",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "1bb5b37a-764d-4ee7-acfc-49509f458c02",
+          "message": "why do they do that",
+          "response": "It seems like you're referring to a situation or behavior that you're finding puzzling or concerning. If you're comfortable sharing more details, I'd be happy to help explore possible reasons or provide support. People engage in various behaviors for a multitude of reasons, often influenced by individual experiences, emotions, and mental health conditions. Understanding the underlying motivations can sometimes help in addressing or making sense of the behavior.",
+          "createdAt": "2025-08-06T02:24:29.110Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892be18a535a9a0db52f54f",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "d1eba439-c3ac-4d8b-9e6b-0a24ce8dfa54",
+          "message": "heyy i am devestated my parents dont love me",
+          "response": "I'm really sorry to hear that you're feeling this way. It must be incredibly tough to feel like you're not getting the love and support you need from your parents. Remember, your feelings are valid, and it's important to talk about them. Is there anything specific that happened to make you feel this way, or is it an ongoing feeling? I'm here to listen and help in any way I can.",
+          "createdAt": "2025-08-06T02:29:44.179Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892be32a535a9a0db52f552",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "d1eba439-c3ac-4d8b-9e6b-0a24ce8dfa54",
+          "message": "they love my brother more",
+          "response": "That sounds really painful, and it's understandable to feel hurt if you believe your brother receives more love or attention. Sibling dynamics can sometimes be challenging and make us feel like we're in competition for our parents' affection.\n\nHave you had a chance to talk to your parents about how you're feeling? It might help to let them know how their actions are affecting you. If you're comfortable, we can think about how to approach that conversation. Remember, your feelings are important, and seeking clarity might bring some relief and understanding.",
+          "createdAt": "2025-08-06T02:30:10.061Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892be53a535a9a0db52f555",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "d1eba439-c3ac-4d8b-9e6b-0a24ce8dfa54",
+          "message": "yes they say because hes handsome",
+          "response": "I'm sorry to hear that. It’s really unfair and hurtful to feel like you're being valued less for reasons beyond your control. Remember, your worth isn't tied to appearance, and you have so many other qualities that make you unique and valuable.\n\nIt might be helpful to focus on the things you love about yourself and the strengths you have. Surrounding yourself with supportive friends or mentors who appreciate you for who you are can also be really beneficial. If you want, we can talk more about how you can express your feelings to your parents or find other ways to build a positive self-image.",
+          "createdAt": "2025-08-06T02:30:43.939Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892dab4a535a9a0db52f5b2",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "e0eb7e8d-aa0a-4715-af91-a8eb0132628b",
+          "message": "what is your name",
+          "response": "I'm Serenio AI, your supportive mental health assistant. How can I assist you today?",
+          "createdAt": "2025-08-06T04:31:48.621Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892dacda535a9a0db52f5b5",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "e0eb7e8d-aa0a-4715-af91-a8eb0132628b",
+          "message": "i am feeling exhausted",
+          "response": "I'm sorry to hear you're feeling that way. Exhaustion can be really tough to deal with. Have you noticed any specific patterns or triggers that might be contributing to how you're feeling? Or is there anything in particular you'd like to talk about or explore?",
+          "createdAt": "2025-08-06T04:32:13.407Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892db1ba535a9a0db52f5b8",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "e0eb7e8d-aa0a-4715-af91-a8eb0132628b",
+          "message": "i haven't been able to sleep well",
+          "response": "I'm sorry to hear that you're having trouble sleeping. It can be really challenging to feel rested and energized when sleep is elusive. Have you tried any specific strategies or routines to help improve your sleep? If not, or if you're looking for new ideas, I can suggest a few techniques that might help.",
+          "createdAt": "2025-08-06T04:33:31.816Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892db4ea535a9a0db52f5bb",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "e0eb7e8d-aa0a-4715-af91-a8eb0132628b",
+          "message": "yes please suggest some cuz i've been stressed over work and havent been able to sleep well",
+          "response": "I understand how stress from work can make it difficult to unwind and get a good night's sleep. Here are a few strategies that might help:\n\n1. **Create a Relaxing Bedtime Routine**: Engage in calming activities like listening to soft music, reading a book, or meditating before bed. This can signal to your body that it's time to wind down.\n\n2. **Exercise Regularly**: Aim for at least 30 minutes of exercise each day, but try to avoid working out right before bed as it can be energizing.\n\n3. **Mindful Breathing or Progressive Muscle Relaxation**: These techniques can help reduce stress and promote relaxation. Try deep breathing exercises or gradually tensing and then relaxing each muscle group.\n\n4. **Limit Screen Time**: Try to avoid screens (phones, computers, TV) at least an hour before bed, as the blue light can interfere with your sleep cycle.\n\n5. **Maintain a Consistent Sleep Schedule**: Going to bed and waking up at the same time every day can help regulate your body's internal clock.\n\n6. **Keep Your Bedroom Comfortable**: Ensure your mattress and pillows are comfortable, and keep the room at a cool, comfortable temperature.\n\n7. **Limit Caffeine and Heavy Meals**: Avoid caffeine in the afternoon and evening, and try not to eat heavy meals close to bedtime.\n\nSometimes, making small adjustments can lead to significant improvements. Is there one of these suggestions you'd like to try, or is there anything",
+          "createdAt": "2025-08-06T04:34:22.207Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892dd3ca535a9a0db52f5db",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "722a2662-5c0a-473c-961f-c99c1714084f",
+          "message": "hiii my name is chappu",
+          "response": "Hi Chappu! It's great to meet you. How are you doing today?",
+          "createdAt": "2025-08-06T04:42:36.310Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892dd56a535a9a0db52f5de",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "722a2662-5c0a-473c-961f-c99c1714084f",
+          "message": "i am not doing good my ass is about to be torn apart withut lubricant",
+          "response": "I'm really sorry to hear you're feeling this way, Chappu. It sounds like you're in a difficult situation. If you're open to it, could you share a bit more about what's going on? I'm here to support you in any way I can.",
+          "createdAt": "2025-08-06T04:43:02.959Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892dd7ea535a9a0db52f5e1",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "722a2662-5c0a-473c-961f-c99c1714084f",
+          "message": "i am open to someone else right now and he is behind me",
+          "response": "It sounds like you're using humor to describe your situation. If you're in need of support or someone to talk to about anything, I'm here to listen. Let me know how I can help!",
+          "createdAt": "2025-08-06T04:43:42.647Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892dd9aa535a9a0db52f5e4",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "722a2662-5c0a-473c-961f-c99c1714084f",
+          "message": "no he is a black with big pp ",
+          "response": "It seems like you're using humor to express yourself, but if there's anything specific you want to talk about or if you're feeling uncomfortable in any way, please let me know. I'm here to offer support and listen to anything you might want to discuss.",
+          "createdAt": "2025-08-06T04:44:10.739Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892ddaaa535a9a0db52f5e7",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "722a2662-5c0a-473c-961f-c99c1714084f",
+          "message": "no he is about to push in",
+          "response": "If you're in a situation where you feel uncomfortable or unsafe, it's important to prioritize your well-being. Please make sure you communicate your boundaries clearly and seek help if needed. If there's anything else you'd like to discuss or if you need support, feel free to reach out.",
+          "createdAt": "2025-08-06T04:44:26.171Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892ddb9a535a9a0db52f5ea",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "722a2662-5c0a-473c-961f-c99c1714084f",
+          "message": "ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+          "response": "It seems like you're expressing a lot of intensity right now. If there's something specific you'd like to share or talk about, I'm here to listen and support you.",
+          "createdAt": "2025-08-06T04:44:41.843Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892df36a535a9a0db52f604",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "55e126c8-91fc-43f0-9036-026b4a0c477a",
+          "message": "hello",
+          "response": "Hello! How are you doing today?",
+          "createdAt": "2025-08-06T04:51:02.044Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892f22029729135c8c23160",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "1457561d-93af-4ffe-82e0-1376286f3021",
+          "message": "HI",
+          "response": "Hello! How are you doing today? Is there anything on your mind you'd like to talk about?",
+          "createdAt": "2025-08-06T06:11:44.135Z",
+          "__v": 0
+        },
+        {
+          "_id": "6893618c29729135c8c23241",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "80187c85-0cf3-4570-9fe5-309fc57d8f49",
+          "message": "i feel anxious bcz of my studies",
+          "response": "I'm sorry to hear that you're feeling anxious about your studies. It's completely normal to feel this way, especially when there's a lot on your plate. Remember, you're not alone in this, and there are ways to manage the anxiety. Have you tried deep breathing exercises or setting a realistic schedule to help break down your tasks? Sometimes, taking small, manageable steps can make a big difference. If you want, we can explore some specific strategies together.",
+          "createdAt": "2025-08-06T14:07:08.026Z",
+          "__v": 0
+        },
+        {
+          "_id": "689361c729729135c8c23244",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "80187c85-0cf3-4570-9fe5-309fc57d8f49",
+          "message": "yes lets explore",
+          "response": "Great! Let's start by identifying what might be causing your anxiety about your studies. Is it the workload, a specific subject, upcoming exams, or something else? Understanding the root cause can help us find the best strategies to tackle it. Once we have a clearer picture, we can look at ways to break down tasks, prioritize them, and incorporate some calming techniques into your routine. What do you think is contributing most to your anxiety?",
+          "createdAt": "2025-08-06T14:08:07.977Z",
+          "__v": 0
+        },
+        {
+          "_id": "6893621b29729135c8c23247",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "80187c85-0cf3-4570-9fe5-309fc57d8f49",
+          "message": "upcoming exams, less time, more work",
+          "response": "It sounds like you're dealing with a lot right now with upcoming exams and feeling pressed for time. Let's try to make this more manageable:\n\n1. **Prioritize Tasks:** List all your subjects and the topics you need to cover. Identify which ones are most urgent or difficult, and start with those.\n\n2. **Create a Study Schedule:** Break your study time into smaller, focused sessions with regular breaks. This can help improve concentration and prevent burnout. A common approach is the Pomodoro Technique – 25 minutes of focused study followed by a 5-minute break.\n\n3. **Set Realistic Goals:** Each study session should have a clear, achievable goal. This could be reading a chapter, solving a set number of problems, or reviewing notes.\n\n4. **Practice Relaxation:** Incorporate relaxation techniques like deep breathing or brief mindfulness exercises during breaks to help reduce anxiety.\n\n5. **Reach Out for Support:** If possible, connect with classmates for study groups, or reach out to teachers for guidance on difficult topics.\n\n6. **Stay Positive:** Remind yourself that progress, not perfection, is key. Celebrate small victories along the way.\n\nHow does that sound? Do any of these strategies resonate with you?",
+          "createdAt": "2025-08-06T14:09:31.291Z",
+          "__v": 0
+        },
+        {
+          "_id": "689362a429729135c8c2324a",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "80187c85-0cf3-4570-9fe5-309fc57d8f49",
+          "message": "yes ty",
+          "response": "You're welcome! I'm glad those suggestions resonate with you. Remember, it's about taking one step at a time and being kind to yourself during this process. If you need any more support or just want to talk things through, I'm here for you. Good luck with your studies and exams – you've got this!",
+          "createdAt": "2025-08-06T14:11:48.028Z",
+          "__v": 0
+        },
+        {
+          "_id": "68938e6029729135c8c232dd",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "4e5ce44a-24cc-4ef2-ab64-5d5c30ffbad8",
+          "message": "Hi",
+          "response": "Hello! How are you doing today?",
+          "createdAt": "2025-08-06T17:18:24.249Z",
+          "__v": 0
+        }
+      ]
+    },
+    "feedbacks": {
+      "count": 2,
+      "data": [
+        {
+          "_id": "6889f5d1939e131d84ae11c0",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "session_001",
+          "messageId": "6889f5d1939e131d84ae11b8",
+          "rating": 5,
+          "comment": "Very helpful session, the therapist was understanding and provided practical advice.",
+          "createdAt": "2025-07-30T10:37:05.529Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d1939e131d84ae11c2",
+          "userId": "6889f5ce939e131d84ae1183",
+          "sessionId": "session_002",
+          "messageId": "6889f5d1939e131d84ae11bc",
+          "rating": 4,
+          "comment": "Good session, learned some useful techniques for managing anxiety.",
+          "createdAt": "2025-07-30T10:37:05.607Z",
+          "__v": 0
+        }
+      ]
+    },
+    "payments": {
+      "count": 3,
+      "data": [
+        {
+          "_id": "6889f5cf939e131d84ae119b",
+          "userId": "6889f5ce939e131d84ae1183",
+          "appointmentId": "6889f5cf939e131d84ae1193",
+          "amount": 2500,
+          "paymentMethod": "JazzCash",
+          "paymentStatus": "Success",
+          "timestamp": "2025-07-30T10:37:03.959Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae119d",
+          "userId": "6889f5ce939e131d84ae1183",
+          "appointmentId": "6889f5cf939e131d84ae1195",
+          "amount": 2200,
+          "paymentMethod": "EasyPaisa",
+          "paymentStatus": "Success",
+          "timestamp": "2025-07-30T10:37:04.038Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889f5d0939e131d84ae119f",
+          "userId": "6889f5ce939e131d84ae1183",
+          "appointmentId": "6889f5cf939e131d84ae1197",
+          "amount": 2800,
+          "paymentMethod": "Manual",
+          "paymentStatus": "Pending",
+          "timestamp": "2025-07-30T10:37:04.116Z",
+          "__v": 0
+        }
+      ]
+    },
+    "transactions": {
+      "count": 17,
+      "data": [
+        {
+          "_id": "6880efc0add2c6007378889d",
+          "userId": "687b28224004620dc243c321",
+          "stripePaymentId": "pi_3Ro3XIFK7fdjAsTu0pC2pjGh",
+          "amount": 1000,
+          "currency": "usd",
+          "status": "requires_payment_method",
+          "createdAt": "2025-07-23T14:20:48.600Z",
+          "__v": 0
+        },
+        {
+          "_id": "6880f2dbc428cfef03e2e709",
+          "userId": "687b28224004620dc243c321",
+          "stripePaymentId": "pi_3Ro3k7FK7fdjAsTu051ljkdz",
+          "amount": 100000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-07-23T14:34:03.972Z",
+          "__v": 0
+        },
+        {
+          "_id": "68810eac2a47914eb9be6c2c",
+          "userId": "687b28224004620dc243c321",
+          "stripePaymentId": "pi_3Ro5ayFK7fdjAsTu08YIHzPL",
+          "amount": 100000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-07-23T16:32:44.666Z",
+          "__v": 0
+        },
+        {
+          "_id": "68810f9d2a47914eb9be6c2e",
+          "userId": "687b28224004620dc243c321",
+          "stripePaymentId": "pi_3Ro5erFK7fdjAsTu1d6Qo7Aa",
+          "amount": 100000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-07-23T16:36:45.641Z",
+          "__v": 0
+        },
+        {
+          "_id": "68811835e2492240175eed81",
+          "userId": "687b28224004620dc243c321",
+          "stripePaymentId": "pi_3Ro6ELFK7fdjAsTu1HAYaSo4",
+          "amount": 100000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-07-23T17:13:25.977Z",
+          "__v": 0
+        },
+        {
+          "_id": "6889006172360fdb98fa9875",
+          "userId": "6886030d828acd6f462765ae",
+          "stripePaymentId": "pi_3RqH2DFK7fdjAsTu1Y8LVxlq",
+          "amount": 200000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-07-29T17:09:53.512Z",
+          "__v": 0
+        },
+        {
+          "_id": "6891d16b9cdfa83ae8f48b66",
+          "userId": "6889f5ce939e131d84ae1183",
+          "stripePaymentId": "pi_3RshLbFK7fdjAsTu1wlgq1d2",
+          "amount": 250000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-05T09:39:55.414Z",
+          "__v": 0
+        },
+        {
+          "_id": "68921b4642cad91b9ff6dc2e",
+          "userId": "6889f5ce939e131d84ae1183",
+          "stripePaymentId": "pi_3RsmGYFK7fdjAsTu0KcOTPoZ",
+          "amount": 280000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-05T14:55:02.661Z",
+          "__v": 0
+        },
+        {
+          "_id": "68921cf242cad91b9ff6dc5d",
+          "userId": "6889f5ce939e131d84ae1183",
+          "stripePaymentId": "pi_3RsmNSFK7fdjAsTu0RCNhwDR",
+          "amount": 220000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-05T15:02:10.211Z",
+          "__v": 0
+        },
+        {
+          "_id": "689224f042cad91b9ff6dc6f",
+          "userId": "689224b342cad91b9ff6dc61",
+          "stripePaymentId": "pi_3RsmuSFK7fdjAsTu1rbJfckN",
+          "amount": 250000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-05T15:36:16.801Z",
+          "__v": 0
+        },
+        {
+          "_id": "689225a242cad91b9ff6dc78",
+          "userId": "689224b342cad91b9ff6dc61",
+          "stripePaymentId": "pi_3RsmxKFK7fdjAsTu1IQchSbg",
+          "amount": 250000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-05T15:39:14.308Z",
+          "__v": 0
+        },
+        {
+          "_id": "689231c0a6c7f79d419af7ea",
+          "userId": "6889f5ce939e131d84ae1183",
+          "stripePaymentId": "pi_3RsnlMFK7fdjAsTu15S41xvB",
+          "amount": 280000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-05T16:30:56.568Z",
+          "__v": 0
+        },
+        {
+          "_id": "689253fca6c7f79d419af95f",
+          "userId": "6889f5ce939e131d84ae1183",
+          "stripePaymentId": "pi_3Rsq2iFK7fdjAsTu1XJX8eo8",
+          "amount": 220000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-05T18:57:00.198Z",
+          "__v": 0
+        },
+        {
+          "_id": "68926dc88db9267378f7def0",
+          "userId": "68926d8b8db9267378f7dec5",
+          "stripePaymentId": "pi_3RsrlEFK7fdjAsTu1LnTOJdH",
+          "amount": 280000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-05T20:47:04.684Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892a7ed8db9267378f7e0c6",
+          "userId": "6889f5ce939e131d84ae1183",
+          "stripePaymentId": "pi_3RsvdJFK7fdjAsTu0sMFtZzI",
+          "amount": 250000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-06T00:55:09.604Z",
+          "__v": 0
+        },
+        {
+          "_id": "6892c234a535a9a0db52f582",
+          "userId": "6889f5ce939e131d84ae1183",
+          "stripePaymentId": "pi_3RsxNoFK7fdjAsTu1IBI9Xm2",
+          "amount": 220000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-06T02:47:16.381Z",
+          "__v": 0
+        },
+        {
+          "_id": "6893641529729135c8c23292",
+          "userId": "6889f5ce939e131d84ae1183",
+          "stripePaymentId": "pi_3Rt8ACFK7fdjAsTu1bEwnCWE",
+          "amount": 220000,
+          "currency": "pkr",
+          "status": "requires_payment_method",
+          "createdAt": "2025-08-06T14:17:57.038Z",
+          "__v": 0
+        }
+      ]
+    },
+    "recommendations": {
+      "count": 1,
+      "data": [
+        {
+          "_id": "688111bba416f7a43c340b3f",
+          "userId": "687b28224004620dc243c321",
+          "sessionId": "a546fced-7e0b-4f96-a3ee-0cc81a051ccb",
+          "recommendation": "Try mindfulness exercises: https://www.mindful.org/meditation",
+          "createdAt": "2025-07-23T16:45:47.276Z",
+          "__v": 0
+        }
+      ]
+    }
+  }
+}

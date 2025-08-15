@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "6889f5d1939e131d84ae11c0",
+    "userId": "6889f5ce939e131d84ae1183",
+    "sessionId": "session_001",
+    "messageId": "6889f5d1939e131d84ae11b8",
+    "rating": 5,
+    "comment": "Very helpful session, the therapist was understanding and provided practical advice.",
+    "createdAt": "2025-07-30T10:37:05.529Z",
+    "__v": 0
+  },
+  {
+    "_id": "6889f5d1939e131d84ae11c2",
+    "userId": "6889f5ce939e131d84ae1183",
+    "sessionId": "session_002",
+    "messageId": "6889f5d1939e131d84ae11bc",
+    "rating": 4,
+    "comment": "Good session, learned some useful techniques for managing anxiety.",
+    "createdAt": "2025-07-30T10:37:05.607Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "name": "serenio-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node scripts/seedDatabase.js",
+    "verify": "node scripts/verifyData.js",
+    "export-db": "node scripts/exportDatabase.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.1",
+    "multer": "^2.0.2",
+    "ngrok": "^5.0.0-beta.2",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.5",
+    "openai": "^5.10.2",
+    "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.13.0",
+    "stripe": "^18.3.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

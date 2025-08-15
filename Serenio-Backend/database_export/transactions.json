@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "6880efc0add2c6007378889d",
+    "userId": "687b28224004620dc243c321",
+    "stripePaymentId": "pi_3Ro3XIFK7fdjAsTu0pC2pjGh",
+    "amount": 1000,
+    "currency": "usd",
+    "status": "requires_payment_method",
+    "createdAt": "2025-07-23T14:20:48.600Z",
+    "__v": 0
+  },
+  {
+    "_id": "6880f2dbc428cfef03e2e709",
+    "userId": "687b28224004620dc243c321",
+    "stripePaymentId": "pi_3Ro3k7FK7fdjAsTu051ljkdz",
+    "amount": 100000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-07-23T14:34:03.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "68810eac2a47914eb9be6c2c",
+    "userId": "687b28224004620dc243c321",
+    "stripePaymentId": "pi_3Ro5ayFK7fdjAsTu08YIHzPL",
+    "amount": 100000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-07-23T16:32:44.666Z",
+    "__v": 0
+  },
+  {
+    "_id": "68810f9d2a47914eb9be6c2e",
+    "userId": "687b28224004620dc243c321",
+    "stripePaymentId": "pi_3Ro5erFK7fdjAsTu1d6Qo7Aa",
+    "amount": 100000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-07-23T16:36:45.641Z",
+    "__v": 0
+  },
+  {
+    "_id": "68811835e2492240175eed81",
+    "userId": "687b28224004620dc243c321",
+    "stripePaymentId": "pi_3Ro6ELFK7fdjAsTu1HAYaSo4",
+    "amount": 100000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-07-23T17:13:25.977Z",
+    "__v": 0
+  },
+  {
+    "_id": "6889006172360fdb98fa9875",
+    "userId": "6886030d828acd6f462765ae",
+    "stripePaymentId": "pi_3RqH2DFK7fdjAsTu1Y8LVxlq",
+    "amount": 200000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-07-29T17:09:53.512Z",
+    "__v": 0
+  },
+  {
+    "_id": "6891d16b9cdfa83ae8f48b66",
+    "userId": "6889f5ce939e131d84ae1183",
+    "stripePaymentId": "pi_3RshLbFK7fdjAsTu1wlgq1d2",
+    "amount": 250000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-05T09:39:55.414Z",
+    "__v": 0
+  },
+  {
+    "_id": "68921b4642cad91b9ff6dc2e",
+    "userId": "6889f5ce939e131d84ae1183",
+    "stripePaymentId": "pi_3RsmGYFK7fdjAsTu0KcOTPoZ",
+    "amount": 280000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-05T14:55:02.661Z",
+    "__v": 0
+  },
+  {
+    "_id": "68921cf242cad91b9ff6dc5d",
+    "userId": "6889f5ce939e131d84ae1183",
+    "stripePaymentId": "pi_3RsmNSFK7fdjAsTu0RCNhwDR",
+    "amount": 220000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-05T15:02:10.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "689224f042cad91b9ff6dc6f",
+    "userId": "689224b342cad91b9ff6dc61",
+    "stripePaymentId": "pi_3RsmuSFK7fdjAsTu1rbJfckN",
+    "amount": 250000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-05T15:36:16.801Z",
+    "__v": 0
+  },
+  {
+    "_id": "689225a242cad91b9ff6dc78",
+    "userId": "689224b342cad91b9ff6dc61",
+    "stripePaymentId": "pi_3RsmxKFK7fdjAsTu1IQchSbg",
+    "amount": 250000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-05T15:39:14.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "689231c0a6c7f79d419af7ea",
+    "userId": "6889f5ce939e131d84ae1183",
+    "stripePaymentId": "pi_3RsnlMFK7fdjAsTu15S41xvB",
+    "amount": 280000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-05T16:30:56.568Z",
+    "__v": 0
+  },
+  {
+    "_id": "689253fca6c7f79d419af95f",
+    "userId": "6889f5ce939e131d84ae1183",
+    "stripePaymentId": "pi_3Rsq2iFK7fdjAsTu1XJX8eo8",
+    "amount": 220000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-05T18:57:00.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "68926dc88db9267378f7def0",
+    "userId": "68926d8b8db9267378f7dec5",
+    "stripePaymentId": "pi_3RsrlEFK7fdjAsTu1LnTOJdH",
+    "amount": 280000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-05T20:47:04.684Z",
+    "__v": 0
+  },
+  {
+    "_id": "6892a7ed8db9267378f7e0c6",
+    "userId": "6889f5ce939e131d84ae1183",
+    "stripePaymentId": "pi_3RsvdJFK7fdjAsTu0sMFtZzI",
+    "amount": 250000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-06T00:55:09.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "6892c234a535a9a0db52f582",
+    "userId": "6889f5ce939e131d84ae1183",
+    "stripePaymentId": "pi_3RsxNoFK7fdjAsTu1IBI9Xm2",
+    "amount": 220000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-06T02:47:16.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "6893641529729135c8c23292",
+    "userId": "6889f5ce939e131d84ae1183",
+    "stripePaymentId": "pi_3Rt8ACFK7fdjAsTu1bEwnCWE",
+    "amount": 220000,
+    "currency": "pkr",
+    "status": "requires_payment_method",
+    "createdAt": "2025-08-06T14:17:57.038Z",
+    "__v": 0
+  }
+]

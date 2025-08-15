@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6889f5cf939e131d84ae119b",
+    "userId": "6889f5ce939e131d84ae1183",
+    "appointmentId": "6889f5cf939e131d84ae1193",
+    "amount": 2500,
+    "paymentMethod": "JazzCash",
+    "paymentStatus": "Success",
+    "timestamp": "2025-07-30T10:37:03.959Z",
+    "__v": 0
+  },
+  {
+    "_id": "6889f5d0939e131d84ae119d",
+    "userId": "6889f5ce939e131d84ae1183",
+    "appointmentId": "6889f5cf939e131d84ae1195",
+    "amount": 2200,
+    "paymentMethod": "EasyPaisa",
+    "paymentStatus": "Success",
+    "timestamp": "2025-07-30T10:37:04.038Z",
+    "__v": 0
+  },
+  {
+    "_id": "6889f5d0939e131d84ae119f",
+    "userId": "6889f5ce939e131d84ae1183",
+    "appointmentId": "6889f5cf939e131d84ae1197",
+    "amount": 2800,
+    "paymentMethod": "Manual",
+    "paymentStatus": "Pending",
+    "timestamp": "2025-07-30T10:37:04.116Z",
+    "__v": 0
+  }
+]

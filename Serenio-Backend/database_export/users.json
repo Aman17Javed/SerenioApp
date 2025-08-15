@@ -1,0 +1,120 @@
+[
+  {
+    "_id": "6889f5ce939e131d84ae1183",
+    "name": "Aman Javed",
+    "email": "aman@example.com",
+    "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+    "role": "User",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODg5ZjVjZTkzOWUxMzFkODRhZTExODMiLCJpYXQiOjE3NTQ1MDA2NDMsImV4cCI6MTc1NTEwNTQ0M30.D1qobl7xC2f-EBc3l6qFa2s7IeMqYddktwrtbB13AWQ",
+    "id": "6889f5ce939e131d84ae1183"
+  },
+  {
+    "_id": "6889f5ce939e131d84ae1185",
+    "name": "Dr. Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+    "role": "Psychologist",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODg5ZjVjZTkzOWUxMzFkODRhZTExODUiLCJpYXQiOjE3NTQ0NjA5OTgsImV4cCI6MTc1NTA2NTc5OH0.5S6eZTKlkjTmjsXfq-jIOxKcsOURMw4aFbzohXaWVrQ",
+    "id": "6889f5ce939e131d84ae1185"
+  },
+  {
+    "_id": "6889f5ce939e131d84ae1187",
+    "name": "Dr. Michael Chen",
+    "email": "michael.chen@example.com",
+    "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+    "role": "Psychologist",
+    "__v": 0,
+    "id": "6889f5ce939e131d84ae1187"
+  },
+  {
+    "_id": "6889f5cf939e131d84ae1189",
+    "name": "Dr. Emily Rodriguez",
+    "email": "emily.rodriguez@example.com",
+    "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+    "role": "Psychologist",
+    "__v": 0,
+    "id": "6889f5cf939e131d84ae1189"
+  },
+  {
+    "_id": "6889f5cf939e131d84ae118b",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "$2b$10$/aVB0u9/nEKRGwhMN2U82O3YhRWOzm0JbA8BKnFEODjWOA9hAZLyi",
+    "role": "Admin",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODg5ZjVjZjkzOWUxMzFkODRhZTExOGIiLCJpYXQiOjE3NTQ0NTkxMDIsImV4cCI6MTc1NTA2MzkwMn0.m7r3u5VLauXO4cORkraz4y6LkYgjU9XpC9KprJTlNU0",
+    "id": "6889f5cf939e131d84ae118b"
+  },
+  {
+    "_id": "688bc98abe00fbcaabdff17b",
+    "name": "DR KHADIJA",
+    "email": "k@example.com",
+    "password": "$2b$10$khkVltTq2MyYNsl.8ucX5u.iqMrVBZluLZs5iSVMyEHUyKa./L8Me",
+    "role": "User",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODhiYzk4YWJlMDBmYmNhYWJkZmYxN2IiLCJpYXQiOjE3NTM5OTE1NjMsImV4cCI6MTc1NDU5NjM2M30.fgtJlLfE8fS05IJPw9hlaXCN38wJvD3P-Yx3K_AToMY",
+    "id": "688bc98abe00fbcaabdff17b"
+  },
+  {
+    "_id": "689224b342cad91b9ff6dc61",
+    "name": "Updated Test User",
+    "email": "updated@example.com",
+    "password": "$2b$10$TXMUEZejGV26iYDBdtpa/O8Ud.GGHkG.drBwSrHY21fn.3wIrazjK",
+    "role": "User",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyMjRiMzQyY2FkOTFiOWZmNmRjNjEiLCJpYXQiOjE3NTQ0MDgxMTUsImV4cCI6MTc1NTAxMjkxNX0.4oD9DFkwmFJHzGyTGNFufsNFRAq_JqZxbsCo4uJYLBo",
+    "id": "689224b342cad91b9ff6dc61"
+  },
+  {
+    "_id": "6892681e8db9267378f7de7c",
+    "name": "Istaqlal haider",
+    "email": "gggg@gmail.com",
+    "password": "$2b$10$kHWBtnqOO11Gwl5o4cGvb.oCg4V5hbCX2e7g52gjPqI2UcdEvvlyu",
+    "role": "User",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyNjgxZThkYjkyNjczNzhmN2RlN2MiLCJpYXQiOjE3NTQ0Mjg3MDcsImV4cCI6MTc1NTAzMzUwN30.1FbU-KyxT9BNMI71RKVvQ2TNLSO49rofGkEcnQsP8lY",
+    "id": "6892681e8db9267378f7de7c"
+  },
+  {
+    "_id": "68926d8b8db9267378f7dec5",
+    "name": "Abdul Rehman",
+    "email": "abdul@gmail.com",
+    "password": "$2b$10$ilBdOPSEONjfdgt/wUmVb.SZJEDV7eRwKxLSo7M5G7pa8J8ErO6cW",
+    "role": "User",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyNmQ4YjhkYjkyNjczNzhmN2RlYzUiLCJpYXQiOjE3NTQ0Mjc5MTMsImV4cCI6MTc1NTAzMjcxM30.FLkBw_WRqGacQNS2khtFsSkO-QFbWtMjgJSuKMNiXgs",
+    "id": "68926d8b8db9267378f7dec5"
+  },
+  {
+    "_id": "6892e9d9a535a9a0db52f6ad",
+    "name": "Ahsan",
+    "email": "ahsan@example.com",
+    "password": "$2b$10$jdztQLxAuiaaxratIm2naOcBdxMrAvqXjaOWrsBL0qAkdrHmCcRCq",
+    "role": "User",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyZTlkOWE1MzVhOWEwZGI1MmY2YWQiLCJpYXQiOjE3NTQ0NTkwMzcsImV4cCI6MTc1NTA2MzgzN30.LT1u0G0RUDRD5aqfZTbGZYK2C1yCKUZ3AAp57q0gpzI",
+    "id": "6892e9d9a535a9a0db52f6ad"
+  },
+  {
+    "_id": "6892eb20a535a9a0db52f6ce",
+    "name": "Dr Jajjah",
+    "email": "jajjah@example.com",
+    "password": "$2b$10$.vxReroi4B6Q1lQWz.dNm.vL451BN2p0/2N9.2SEBkaL0u.Jh1Pw2",
+    "role": "User",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyZWIyMGE1MzVhOWEwZGI1MmY2Y2UiLCJpYXQiOjE3NTQ0NTg5MTIsImV4cCI6MTc1NTA2MzcxMn0.aQV9XdKA6z0C0OjEmCvKoO9LocshohwYNXMUyitYMG4",
+    "id": "6892eb20a535a9a0db52f6ce"
+  },
+  {
+    "_id": "6892edbe51f9f68a77ee0115",
+    "name": "Dr Baig",
+    "email": "baig@example.com",
+    "password": "$2b$10$S9AsYD81hyttmyP1CqyX6.N8DXg/OxIc1KFbIIdzC.Sonj00tm3qm",
+    "role": "Psychologist",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODkyZWRiZTUxZjlmNjhhNzdlZTAxMTUiLCJpYXQiOjE3NTQ0NTk1ODIsImV4cCI6MTc1NTA2NDM4Mn0.3haCUeRq0qPXoo_OkOnkKf5lxMLf2t4Qf8rGmw7opPA",
+    "id": "6892edbe51f9f68a77ee0115"
+  }
+]

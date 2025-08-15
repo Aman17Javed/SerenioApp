@@ -1,0 +1,43 @@
+{
+  "exportDate": "2025-08-06T18:13:54.620Z",
+  "totalCollections": 9,
+  "collectionSummary": [
+    {
+      "collection": "users",
+      "recordCount": 12
+    },
+    {
+      "collection": "psychologists",
+      "recordCount": 4
+    },
+    {
+      "collection": "appointments",
+      "recordCount": 16
+    },
+    {
+      "collection": "moodlogs",
+      "recordCount": 17
+    },
+    {
+      "collection": "chatlogs",
+      "recordCount": 110
+    },
+    {
+      "collection": "feedbacks",
+      "recordCount": 2
+    },
+    {
+      "collection": "payments",
+      "recordCount": 3
+    },
+    {
+      "collection": "transactions",
+      "recordCount": 17
+    },
+    {
+      "collection": "recommendations",
+      "recordCount": 1
+    }
+  ],
+  "totalRecords": 182
+}

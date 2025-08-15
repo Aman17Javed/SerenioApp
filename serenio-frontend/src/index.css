@@ -1,0 +1,75 @@
+/* Global CSS Reset and Base Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Ensure proper stacking context for fixed elements */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #ffffff;
+}
+
+/* Prevent horizontal overflow */
+.page-layout, .index-wrapper, .modern-dashboard {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* Ensure proper text readability */
+.modern-dashboard {
+  color: #1f2937;
+}
+
+.modern-dashboard h1,
+.modern-dashboard h2,
+.modern-dashboard h3,
+.modern-dashboard h4,
+.modern-dashboard h5,
+.modern-dashboard h6 {
+  color: inherit;
+}
+
+.modern-dashboard p {
+  color: inherit;
+}
+
+/* Global page container styles to prevent navbar overlap */
+.page-container {
+  padding-top: 80px; /* Standard navbar height */
+  min-height: calc(100vh - 80px);
+}
+
+/* Specific page adjustments */
+.chatbot-container,
+.reports-container,
+.psych-dashboard,
+.admin-dashboard-container {
+  padding-top: 80px; /* Ensure consistent spacing */
+}

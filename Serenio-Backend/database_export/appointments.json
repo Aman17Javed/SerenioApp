@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "6889f5cf939e131d84ae1193",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118d",
+    "date": "2025-07-31",
+    "timeSlot": "10:00",
+    "reason": "Anxiety and stress management consultation",
+    "status": "Cancelled",
+    "createdAt": "2025-07-30T10:37:03.631Z",
+    "__v": 0,
+    "paymentId": "6889f5cf939e131d84ae119b"
+  },
+  {
+    "_id": "6889f5cf939e131d84ae1195",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118f",
+    "date": "2025-08-06",
+    "timeSlot": "14:00",
+    "reason": "Follow-up session for anxiety treatment",
+    "status": "Cancelled",
+    "createdAt": "2025-07-30T10:37:03.724Z",
+    "__v": 0,
+    "paymentId": "6889f5d0939e131d84ae119d"
+  },
+  {
+    "_id": "6889f5cf939e131d84ae1197",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae1191",
+    "date": "2025-08-29",
+    "timeSlot": "11:00",
+    "reason": "Depression assessment and treatment planning",
+    "status": "Booked",
+    "createdAt": "2025-07-30T10:37:03.800Z",
+    "__v": 0,
+    "paymentId": "6889f5d0939e131d84ae119f"
+  },
+  {
+    "_id": "6889f5cf939e131d84ae1199",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118d",
+    "date": "2025-08-13",
+    "timeSlot": "15:00",
+    "reason": "Regular therapy session",
+    "status": "Cancelled",
+    "createdAt": "2025-07-30T10:37:03.879Z",
+    "__v": 0
+  },
+  {
+    "_id": "6891d11e9cdfa83ae8f48b62",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118d",
+    "date": "2025-08-06",
+    "timeSlot": "11:00",
+    "reason": "",
+    "status": "Cancelled",
+    "createdAt": "2025-08-05T09:38:38.572Z",
+    "__v": 0
+  },
+  {
+    "_id": "68921b2f42cad91b9ff6dc2a",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae1191",
+    "date": "2025-08-08",
+    "timeSlot": "11:00",
+    "reason": "",
+    "status": "Cancelled",
+    "createdAt": "2025-08-05T14:54:39.396Z",
+    "__v": 0
+  },
+  {
+    "_id": "68921cde42cad91b9ff6dc59",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118f",
+    "date": "2025-08-20",
+    "timeSlot": "17:00",
+    "reason": "",
+    "status": "Booked",
+    "createdAt": "2025-08-05T15:01:50.872Z",
+    "__v": 0
+  },
+  {
+    "_id": "689224c742cad91b9ff6dc67",
+    "userId": "689224b342cad91b9ff6dc61",
+    "psychologistId": "6889f5cf939e131d84ae118d",
+    "date": "2025-08-10",
+    "timeSlot": "10:00",
+    "reason": "Test appointment booking",
+    "status": "Cancelled",
+    "createdAt": "2025-08-05T15:35:35.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "6892250642cad91b9ff6dc74",
+    "userId": "689224b342cad91b9ff6dc61",
+    "psychologistId": "6889f5cf939e131d84ae118d",
+    "date": "2025-08-10",
+    "timeSlot": "10:00",
+    "reason": "Test duplicate booking",
+    "status": "Booked",
+    "createdAt": "2025-08-05T15:36:38.657Z",
+    "__v": 0
+  },
+  {
+    "_id": "6892319fa6c7f79d419af7e6",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae1191",
+    "date": "2025-08-27",
+    "timeSlot": "17:00",
+    "reason": "",
+    "status": "Booked",
+    "createdAt": "2025-08-05T16:30:23.473Z",
+    "__v": 0
+  },
+  {
+    "_id": "689253daa6c7f79d419af95b",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118f",
+    "date": "2025-08-26",
+    "timeSlot": "14:00",
+    "reason": "",
+    "status": "Booked",
+    "createdAt": "2025-08-05T18:56:26.869Z",
+    "__v": 0
+  },
+  {
+    "_id": "68926dbd8db9267378f7deec",
+    "userId": "68926d8b8db9267378f7dec5",
+    "psychologistId": "6889f5cf939e131d84ae1191",
+    "date": "2025-08-09",
+    "timeSlot": "10:00",
+    "reason": "Lun",
+    "status": "Cancelled",
+    "createdAt": "2025-08-05T20:46:53.784Z",
+    "__v": 0
+  },
+  {
+    "_id": "689275738db9267378f7dff2",
+    "userId": "6892681e8db9267378f7de7c",
+    "psychologistId": "6889f5cf939e131d84ae118d",
+    "date": "2025-08-11",
+    "timeSlot": "11:00",
+    "reason": "Hahah",
+    "status": "Booked",
+    "createdAt": "2025-08-05T21:19:47.265Z",
+    "__v": 0
+  },
+  {
+    "_id": "6892a7c08db9267378f7e0c2",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118d",
+    "date": "2025-08-18",
+    "timeSlot": "10:00",
+    "reason": "",
+    "status": "Booked",
+    "createdAt": "2025-08-06T00:54:24.277Z",
+    "__v": 0
+  },
+  {
+    "_id": "6892c215a535a9a0db52f57c",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118f",
+    "date": "2025-08-27",
+    "timeSlot": "11:00",
+    "reason": "Stress",
+    "status": "Booked",
+    "createdAt": "2025-08-06T02:46:45.251Z",
+    "__v": 0
+  },
+  {
+    "_id": "6893640029729135c8c2328c",
+    "userId": "6889f5ce939e131d84ae1183",
+    "psychologistId": "6889f5cf939e131d84ae118f",
+    "date": "2025-08-09",
+    "timeSlot": "15:00",
+    "reason": "anxiety related to studies",
+    "status": "Booked",
+    "createdAt": "2025-08-06T14:17:36.835Z",
+    "__v": 0
+  }
+]
