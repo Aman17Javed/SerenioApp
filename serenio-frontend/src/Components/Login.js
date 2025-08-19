@@ -25,26 +25,18 @@ const AnimatedLogin = () => {
   }, []);
 
   useEffect(() => {
-    // Check if this is the first visit to the app
+    // Show welcome message with demo credentials
     const hasVisited = localStorage.getItem('hasVisitedSerenio');
     if (!hasVisited) {
-      // Show welcome message and offer demo credentials
       setTimeout(() => {
-        toast.info("👋 Welcome to Serenio! Click 'Try Demo Account' to explore with sample data.", {
-          autoClose: 6000,
+        toast.info("👋 Welcome to Serenio! Use these credentials to explore: aman@example.com / password1234", {
+          autoClose: 8000,
           position: "top-center"
         });
         localStorage.setItem('hasVisitedSerenio', 'true');
       }, 1000);
     }
   }, []);
-
-  // Demo credentials auto-fill function
-  const fillDemoCredentials = () => {
-    setEmail("aman@example.com");
-    setPassword("password1234");
-    toast.success("✅ Demo credentials filled! Click 'Sign In' to explore the app.");
-  };
 
   const isValidEmail = (email) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
 
@@ -186,21 +178,13 @@ const AnimatedLogin = () => {
           <Link to="/forgot" className="forgot-link">Forgot Password?</Link>
         </motion.div>
 
-        {/* Demo Login Button */}
+        {/* Demo Credentials Display */}
         <motion.div
           className="demo-login-section"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.45 }}
         >
-          <button
-            className="demo-login-button"
-            onClick={fillDemoCredentials}
-            type="button"
-          >
-            🚀 Try Demo Account
-          </button>
-          <p className="demo-note">Experience the app with populated data</p>
           <div className="demo-credentials">
             <p className="demo-cred-text">
               <strong>Demo Credentials:</strong><br />
